@@ -8,7 +8,7 @@
 html{overflow-y:scroll;}
 body{font: normal normal 90% sans-serif;max-width:280px;margin:100px auto 50px auto;background:#1f1f1f;text-align:center;}
 #header{background:#009999;color:#FFFFCC;height:35px;width:100%;}
-#header > h1{font-size:25px;}
+#header > h1{font-size:26px;}
 ul{list-style:none;margin:0;padding:0;text-align:left;}
 body > ul{border:1px solid #222;box-shadow:0 0 25px #000;margin-bottom:300px;}
 body > ul > li{position:relative;}
